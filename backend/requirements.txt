@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+google-generativeai
+python-multipart
+Pillow
+python-dotenv
+httpx

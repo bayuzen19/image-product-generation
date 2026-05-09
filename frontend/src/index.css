@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+.react-flow__node {
+  font-size: 12px;
+}
+
+@keyframes pulse-border {
+  0%, 100% { border-color: rgba(59, 130, 246, 0.5); }
+  50% { border-color: rgba(59, 130, 246, 1); }
+}
+
+.animate-pulse-border {
+  animation: pulse-border 1.5s ease-in-out infinite;
+}
