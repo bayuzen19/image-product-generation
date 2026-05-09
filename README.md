@@ -14,20 +14,53 @@ An AI-powered SaaS application that generates photorealistic product mockups, fa
 
 ## 🖼️ Generated Examples
 
-| | |
-|:---:|:---:|
-| ![Magazine Cover](./images/mockup-generated-2.png) | ![Fashion Editorial](./images/mockup-generated-4.png) |
-| ![Product Shot](./images/mockup-generated-8.png) | ![Scenic Mockup](./images/mockup-generated-26.png) |
-| ![Magazine Cover Nike](./images/mockup-generated-35.png) | ![Fashion Editorial](./images/mockup-generated-54.png) |
-| ![Magazine Style](./images/mockup-generated-58.png) | ![Product Mockup](./images/mockup-generated-59.png) |
-| ![Product Photography](./images/mockup-generated-61.png) | ![Scenic Product](./images/mockup-generated-62.png) |
-| ![Fashion Model](./images/mockup-generated-64.png) | ![Magazine Layout](./images/mockup-generated-65.png) |
-| ![Product Photography](./images/mockup-generated-66.png) | ![Editorial Shot](./images/mockup-generated-69.png) |
-| ![Brand Mockup](./images/mockup-generated-70.png) | ![Creative Mockup](./images/mockup-generated-72.png) |
-| ![Scenic Shot](./images/mockup-generated-73.png) | ![Product Design](./images/mockup-generated-74.png) |
-| ![Magazine Cover](./images/mockup-generated-75.png) | ![Fashion Shoot](./images/mockup-generated-80.png) |
-| ![Editorial Style](./images/mockup-generated-81.png) | ![Product Render](./images/mockup-generated-82.png) |
-| ![Creative Shot](./images/mockup-generated-83.png) | |
+<p align="center">
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-2.png?raw=true" width="400"/>
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-4.png?raw=true" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-8.png?raw=true" width="400"/>
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-26.png?raw=true" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-35.png?raw=true" width="400"/>
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-54.png?raw=true" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-58.png?raw=true" width="400"/>
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-59.png?raw=true" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-61.png?raw=true" width="400"/>
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-62.png?raw=true" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-64.png?raw=true" width="400"/>
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-65.png?raw=true" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-66.png?raw=true" width="400"/>
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-69.png?raw=true" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-70.png?raw=true" width="400"/>
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-72.png?raw=true" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-73.png?raw=true" width="400"/>
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-74.png?raw=true" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-75.png?raw=true" width="400"/>
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-80.png?raw=true" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-81.png?raw=true" width="400"/>
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-82.png?raw=true" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github.com/bayuzen19/image-product-generation/blob/main/images/mockup-generated-83.png?raw=true" width="400"/>
+</p>
 
 ## 🏗️ Architecture
 
