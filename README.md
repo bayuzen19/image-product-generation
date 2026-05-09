@@ -15,24 +15,24 @@ An AI-powered SaaS application that generates photorealistic product mockups, fa
 ## 🖼️ Generated Examples
 
 <p align="center">
-  <img src="images/mockup-generated (75).png" width="400" alt="Magazine Cover - Nike"/>
-  <img src="images/mockup-generated (74).png" width="400" alt="Fashion Editorial"/>
+  <img src="images/mockup-generated%20(75).png" width="400" alt="Magazine Cover - Nike"/>
+  <img src="images/mockup-generated%20(74).png" width="400" alt="Fashion Editorial"/>
 </p>
 <p align="center">
-  <img src="images/mockup-generated (72).png" width="400" alt="Product Mockup"/>
-  <img src="images/mockup-generated (69).png" width="400" alt="Scenic Product Shot"/>
+  <img src="images/mockup-generated%20(72).png" width="400" alt="Product Mockup"/>
+  <img src="images/mockup-generated%20(69).png" width="400" alt="Scenic Product Shot"/>
 </p>
 <p align="center">
-  <img src="images/mockup-generated (66).png" width="400" alt="Fashion Model with Product"/>
-  <img src="images/mockup-generated (65).png" width="400" alt="Magazine Style"/>
+  <img src="images/mockup-generated%20(66).png" width="400" alt="Fashion Model with Product"/>
+  <img src="images/mockup-generated%20(65).png" width="400" alt="Magazine Style"/>
 </p>
 <p align="center">
-  <img src="images/mockup-generated (64).png" width="400" alt="Product Photography"/>
-  <img src="images/mockup-generated (62).png" width="400" alt="Editorial Shot"/>
+  <img src="images/mockup-generated%20(64).png" width="400" alt="Product Photography"/>
+  <img src="images/mockup-generated%20(62).png" width="400" alt="Editorial Shot"/>
 </p>
 <p align="center">
-  <img src="images/mockup-generated (61).png" width="400" alt="Brand Mockup"/>
-  <img src="images/mockup-generated (59).png" width="400" alt="Creative Mockup"/>
+  <img src="images/mockup-generated%20(61).png" width="400" alt="Brand Mockup"/>
+  <img src="images/mockup-generated%20(59).png" width="400" alt="Creative Mockup"/>
 </p>
 
 ## 🏗️ Architecture
