@@ -14,26 +14,20 @@ An AI-powered SaaS application that generates photorealistic product mockups, fa
 
 ## 🖼️ Generated Examples
 
-<p align="center">
-  <img src="images/mockup-generated-75.png" width="400" alt="Magazine Cover - Nike"/>
-  <img src="images/mockup-generated-74.png" width="400" alt="Fashion Editorial"/>
-</p>
-<p align="center">
-  <img src="images/mockup-generated-72.png" width="400" alt="Product Mockup"/>
-  <img src="images/mockup-generated-69.png" width="400" alt="Scenic Product Shot"/>
-</p>
-<p align="center">
-  <img src="images/mockup-generated-66.png" width="400" alt="Fashion Model with Product"/>
-  <img src="images/mockup-generated-65.png" width="400" alt="Magazine Style"/>
-</p>
-<p align="center">
-  <img src="images/mockup-generated-64.png" width="400" alt="Product Photography"/>
-  <img src="images/mockup-generated-62.png" width="400" alt="Editorial Shot"/>
-</p>
-<p align="center">
-  <img src="images/mockup-generated-61.png" width="400" alt="Brand Mockup"/>
-  <img src="images/mockup-generated-59.png" width="400" alt="Creative Mockup"/>
-</p>
+| | |
+|:---:|:---:|
+| ![Magazine Cover](./images/mockup-generated-83.png) | ![Fashion Editorial](./images/mockup-generated-82.png) |
+| ![Product Shot](./images/mockup-generated-81.png) | ![Scenic Mockup](./images/mockup-generated-80.png) |
+| ![Magazine Cover Nike](./images/mockup-generated-75.png) | ![Fashion Editorial](./images/mockup-generated-74.png) |
+| ![Magazine Style](./images/mockup-generated-73.png) | ![Product Mockup](./images/mockup-generated-72.png) |
+| ![Product Photography](./images/mockup-generated-70.png) | ![Scenic Product](./images/mockup-generated-69.png) |
+| ![Fashion Model](./images/mockup-generated-66.png) | ![Magazine Layout](./images/mockup-generated-65.png) |
+| ![Product Photography](./images/mockup-generated-64.png) | ![Editorial Shot](./images/mockup-generated-62.png) |
+| ![Brand Mockup](./images/mockup-generated-61.png) | ![Creative Mockup](./images/mockup-generated-59.png) |
+| ![Scenic Shot](./images/mockup-generated-58.png) | ![Product Design](./images/mockup-generated-54.png) |
+| ![Product Mockup](./images/mockup-generated-35.png) | ![Studio Shot](./images/mockup-generated-26.png) |
+| ![Mockup Style](./images/mockup-generated-8.png) | ![Product Render](./images/mockup-generated-4.png) |
+| ![Creative Shot](./images/mockup-generated-2.png) | |
 
 ## 🏗️ Architecture
 
