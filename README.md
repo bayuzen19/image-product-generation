@@ -16,18 +16,18 @@ An AI-powered SaaS application that generates photorealistic product mockups, fa
 
 | | |
 |:---:|:---:|
-| ![Magazine Cover](./images/mockup-generated-83.png) | ![Fashion Editorial](./images/mockup-generated-82.png) |
-| ![Product Shot](./images/mockup-generated-81.png) | ![Scenic Mockup](./images/mockup-generated-80.png) |
-| ![Magazine Cover Nike](./images/mockup-generated-75.png) | ![Fashion Editorial](./images/mockup-generated-74.png) |
-| ![Magazine Style](./images/mockup-generated-73.png) | ![Product Mockup](./images/mockup-generated-72.png) |
-| ![Product Photography](./images/mockup-generated-70.png) | ![Scenic Product](./images/mockup-generated-69.png) |
-| ![Fashion Model](./images/mockup-generated-66.png) | ![Magazine Layout](./images/mockup-generated-65.png) |
-| ![Product Photography](./images/mockup-generated-64.png) | ![Editorial Shot](./images/mockup-generated-62.png) |
-| ![Brand Mockup](./images/mockup-generated-61.png) | ![Creative Mockup](./images/mockup-generated-59.png) |
-| ![Scenic Shot](./images/mockup-generated-58.png) | ![Product Design](./images/mockup-generated-54.png) |
-| ![Product Mockup](./images/mockup-generated-35.png) | ![Studio Shot](./images/mockup-generated-26.png) |
-| ![Mockup Style](./images/mockup-generated-8.png) | ![Product Render](./images/mockup-generated-4.png) |
-| ![Creative Shot](./images/mockup-generated-2.png) | |
+| ![Magazine Cover](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-83.png) | ![Fashion Editorial](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-82.png) |
+| ![Product Shot](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-81.png) | ![Scenic Mockup](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-80.png) |
+| ![Magazine Cover Nike](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-75.png) | ![Fashion Editorial](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-74.png) |
+| ![Magazine Style](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-73.png) | ![Product Mockup](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-72.png) |
+| ![Product Photography](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-70.png) | ![Scenic Product](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-69.png) |
+| ![Fashion Model](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-66.png) | ![Magazine Layout](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-65.png) |
+| ![Product Photography](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-64.png) | ![Editorial Shot](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-62.png) |
+| ![Brand Mockup](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-61.png) | ![Creative Mockup](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-59.png) |
+| ![Scenic Shot](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-58.png) | ![Product Design](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-54.png) |
+| ![Product Mockup](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-35.png) | ![Studio Shot](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-26.png) |
+| ![Mockup Style](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-8.png) | ![Product Render](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-4.png) |
+| ![Creative Shot](https://raw.githubusercontent.com/bayuzen19/image-product-generation/main/images/mockup-generated-2.png) | |
 
 ## 🏗️ Architecture
 
